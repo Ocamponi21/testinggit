@@ -14,7 +14,7 @@ const renderer = ({hours, minutes, seconds, completed}) => {
   }
 };
 
-function App() {
+function App() { 
   return (
     <div style={{
       textAlign: 'center',
